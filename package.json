@@ -1,0 +1,14 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jrw@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
